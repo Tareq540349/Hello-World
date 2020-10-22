@@ -1,4 +1,4 @@
 # Hello-World
 Initial Repository
-Hey all, I like HTML, CSS & JavaScript. That's what I made of. 
-Travelling help me a lot to write this(About myself).
+Hey all, I like HTML, CSS & JavaScript. Not more than Yammmy food. 
+Traveller.
